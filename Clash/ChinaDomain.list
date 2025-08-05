@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,cpolard.cpolar.com
 DOMAIN-SUFFIX,shared.oaifree.com
 DOMAIN-SUFFIX,ipw.cn
 DOMAIN-SUFFIX,154.12.29.42
+IP-CIDR,154.12.29.0/24
 DOMAIN-SUFFIX,45.207.214.124
 DOMAIN-SUFFIX,154.40.45.113
 IP-CIDR,45.137.180.0/16
@@ -34,6 +35,22 @@ DOMAIN-SUFFIX,btbuluo.net
 DOMAIN-SUFFIX,tagxx.vip
 DOMAIN-SUFFIX,tagss11.pro
 IP-CIDR,192.168.5.0/22
+DOMAIN-SUFFIX,chat.tecshuo.top
+DOMAIN-SUFFIX,chat.iico.eu.org
+DOMAIN-SUFFIX,api.tecshuo.top
+DOMAIN-SUFFIX,api.iico.eu.org
+DOMAIN-SUFFIX,pan.tecshuo.top
+DOMAIN-SUFFIX,pan.iico.eu.org
+DOMAIN-SUFFIX,ddns.tecshuo.top
+DOMAIN-SUFFIX,ddns.iico.eu.org
+DOMAIN-SUFFIX,us.mp.tecshuo.top
+DOMAIN-SUFFIX,us.mp.iico.eu.org
+DOMAIN-SUFFIX,us.qb.tecshuo.top
+DOMAIN-SUFFIX,us.qb.iico.eu.org
+DOMAIN-SUFFIX,us.video.iico.eu.org
+DOMAIN-SUFFIX,us.video.tecshuo.top
+DOMAIN-KEYWORD,tecshuo
+
 
 # MyList
 DOMAIN-SUFFIX,13th.tech
