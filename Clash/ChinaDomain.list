@@ -51,6 +51,9 @@ DOMAIN-SUFFIX,us.video.iico.eu.org
 DOMAIN-SUFFIX,us.video.tecshuo.top
 DOMAIN-KEYWORD,tecshuo
 IP-CIDR,154.12.61.0/24
+SRC-IP-CIDR,154.12.61.104/32
+DOMAIN-SUFFIX,154.12.61.104
+
 
 
 # MyList
