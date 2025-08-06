@@ -50,6 +50,7 @@ DOMAIN-SUFFIX,us.qb.iico.eu.org
 DOMAIN-SUFFIX,us.video.iico.eu.org
 DOMAIN-SUFFIX,us.video.tecshuo.top
 DOMAIN-KEYWORD,tecshuo
+IP-CIDR,154.12.61.0/24
 
 
 # MyList
